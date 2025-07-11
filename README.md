@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,3 +11,7 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# Teacher-Dashboard
+A responsive Teacher Dashboard built using React, Tailwind CSS, and Material UI. Features include a weekly calendar, task list, timetable, performance chart, and teacher info panel — perfect for managing academic workflows.
+>>>>>>> 0e7519959ef2c064301f687ed42ecf900e14a2e7
